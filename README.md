@@ -2,4 +2,4 @@
 
 ## Day 1
 
-Today I decided my startup project and got more familiar with github
+Today I decided what my startup project would be and got more familiar with Github.
